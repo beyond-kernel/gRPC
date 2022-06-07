@@ -1,2 +1,2 @@
 # gRPC
-Projeto exemplo em .NET utilizando gRPC 
+Projeto exemplo em **.NET** utilizando **gRPC**. 
